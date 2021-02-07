@@ -1,0 +1,4 @@
+.img-to-txt/
+.vscode/
+__pycache__/
+db.sqlite3
